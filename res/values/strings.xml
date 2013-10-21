@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Country Hunt</string>
+    <string name="enter_country">Enter a Country</string>
+    <string name="giveUp">Give Up</string>
+    <string name="newGame">New Game</string>
+    <string name="giveup_title">You Gave Up</string>
+    <string name="ok">OK</string>
+    <string name="hint">Hint</string>
+
+</resources>

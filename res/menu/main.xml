@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_giveup"
+        android:orderInCategory="50"
+        android:showAsAction="never"
+        android:title="@string/giveUp">
+    </item>
+    <item
+        android:id="@+id/action_newgame"
+        android:orderInCategory="30"
+        android:icon="@drawable/action_new"
+        android:showAsAction="ifRoom"
+        android:title="@string/newGame">
+    </item>
+    <item
+        android:id="@+id/action_hint"
+        android:icon="@drawable/action_help"
+        android:orderInCategory="20"
+        android:showAsAction="ifRoom"
+        android:title="@string/hint">
+    </item>
+
+</menu>
